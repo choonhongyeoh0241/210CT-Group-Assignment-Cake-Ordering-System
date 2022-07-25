@@ -1,0 +1,4 @@
+Delivered Summary
+  No.      DateTime    OrderId  Flavour      Weight    Price    Status
+-----  ------------  ---------  -----------  --------  -------  ---------
+    0  202104121245       0001  cheese cake  2.0kg     RM90     Delivered
